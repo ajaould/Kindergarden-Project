@@ -17,9 +17,10 @@
     - Are the answers to the above questions impacted by house hold income and teacher to student ratios?
 
 * **Datasets to Be Used**: 
-    1.
-    2.
-    3.
+  
+  1.
+
+  2.
     
 * **Rough Breakdown of Tasks**:
 
