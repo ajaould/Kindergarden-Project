@@ -1,10 +1,10 @@
 # Project 1 - Public School Kindergarten Effects on Student Success
 
 * **Team Members**:
-    1. Aja Ould
-    2. Althea McMillian
-    3. Brittaney Marshall
-    4. Thomas Meacham
+    - Aja Ould
+    - Althea McMillian
+    - Brittaney Marshall
+    - Thomas Meacham
     
 
 * **Project Description/Outline**: Attending Kindergarten is not a requirement of all states.  Our project will seek to discover how children’s performance in the states that require kindergarten compare to the children in the states that do not require kindergarten attendance.
