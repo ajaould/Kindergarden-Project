@@ -1,0 +1,52 @@
+﻿State,State Abbrevation,Requirement
+Alabama,AL,No
+Alaska,AK,No
+Arizona,AZ,No
+Arkansas,AR,Yes
+California,CA,No
+Colorado,CO,No
+Connecticut,CT,Yes
+Delaware,DE,Yes
+District of Columbia,DC,Yes
+Florida,FL,No
+Georgia,GA,No
+Hawaii,HI,Yes
+Idaho,ID,No
+Illinois,IL,No
+Indiana,IN,No
+Iowa,IA,No
+Kansas,KS,No
+Kentucky,KY,No
+Louisiana,LA,Yes
+Maine,ME,No
+Maryland,MD,Yes
+Massachusetts,MA,No
+Michigan,MI,No
+Minnesota,MN,No
+Mississippi,MS,No
+Missouri,MO,No
+Montana,MT,No
+Nebraska,NE,No
+Nevada,NV,Yes
+New Hampshire,NH,No
+New Jersey,NJ,No
+New Mexico,NM,Yes
+New York,NY,No
+North Carolina,NC,No
+North Dakota,ND,No
+Ohio,OH,Yes
+Oklahoma,OK,Yes
+Oregon,OR,No
+Pennsylvania,PA,No
+Rhode Island,RI,Yes
+South Carolina,SC,Yes
+South Dakota,SD,Yes
+Tennessee,TV,Yes
+Texas,TX,No
+Utah,UT,No
+Vermont,VT,No
+Virginia,VA,Yes
+Washington,WA,No
+West Virginia,WV,Yes
+Wisconsin,WI,Yes
+Wyoming,WY,No
