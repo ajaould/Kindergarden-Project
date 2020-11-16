@@ -15,5 +15,11 @@
     - What are the percentage of high school graduation, overall test scores and drop-out rates in the states that do not require kindergarten attendance?
 
     - Are the answers to the above questions impacted by house hold income and teacher to student ratios?
+    
+ * **Conclusion**: 
+    - Overall, math and reading test scores are higher in states that do not require Kindergarden, as opposed to states that do, completely opposite to our initial hypothesis. 
 
+    - There is no statistically significant difference in income between states that do and do not require kindergarden. 
+
+    - There is no statistically significant difference in graduation rates between states that do and don't require kindergarden. 
 - - -
