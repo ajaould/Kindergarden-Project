@@ -22,7 +22,7 @@ First, we graphed the graduation rates to visualize them.
 
 ![](ReadmePics/0006.jpg)
 
-Then, we 
+Then, we compared the graduation rates of states that required kindergarden versus states that do not require kindergarden. We also did the right version, which is the same information but with the outlier of removed. With either model, we found a p value that was greater than 0.05 and therefore the scores are not statistically significant. 
 
 ![](ReadmePics/0007.jpg)
 
