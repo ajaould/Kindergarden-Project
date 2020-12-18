@@ -22,15 +22,19 @@ First, we graphed the graduation rates to visualize them.
 
 ![](ReadmePics/0006.jpg)
 
-Then, we compared the graduation rates of states that required kindergarden versus states that do not require kindergarden. We also did the right version, which is the same information but with the outlier of removed. With either model, we found a p value that was greater than 0.05 and therefore the scores are not statistically significant. 
+Then, we compared the graduation rates of states that required kindergarten versus states that do not require kindergarden. We also did the right version, which is the same information but with the outlier of removed. With either model, we found a p value that was greater than 0.05 and therefore the scores are not statistically significant. 
 
 ![](ReadmePics/0007.jpg)
 
-The next thing we looked at was test scores by subject: math, english and science. We found that in 4th grade, math and english scores are stastitically different, but not science scores. 
+The next thing we looked at was test scores by subject: math, english and science. We found that in 4th grade, math and english scores are stastitically different, but not science scores. Interestingly, the scores for states who don't require kindergarten were much higher than scores that did, which was the opposite of what we were expecting. 
 
 ![](ReadmePics/0008.jpg)
 
+Then, we ran the same test on math, english and science scores, but this time on 8th graders. Again, math and english scores are stastitically different, but not science scores. Again, the scores were higher for states where kindergarten was not required. 
+
 ![](ReadmePics/0009.jpg)
+
+Finally, we wanted to test a theory that maybe the reason that the students where kindergarten was not required were they were wealthier states and as such, parents were paying for private kindergarden more easily, so we tested this theory. However, we found no statistical difference in the incomes of states that require and do not require kindergarten. 
 
 ![](ReadmePics/0010.jpg)
 
