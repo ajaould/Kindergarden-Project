@@ -23,4 +23,4 @@
 
     - There is no statistically significant difference in graduation rates between states that do and don't require kindergarden. 
 - - -
-![](ReadmePics/0001.jpg)
+![](ReadmePics/0006.jpg)
