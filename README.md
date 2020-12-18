@@ -26,6 +26,8 @@ Then, we compared the graduation rates of states that required kindergarden vers
 
 ![](ReadmePics/0007.jpg)
 
+The next thing we looked at was test scores by subject: math, english and science. We found that in 4th grade, math and english scores are stastitically different, but not science scores. 
+
 ![](ReadmePics/0008.jpg)
 
 ![](ReadmePics/0009.jpg)
